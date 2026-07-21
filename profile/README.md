@@ -1,95 +1,104 @@
 <div align="center">
 
+<img src="assets/lynav-logo.svg" alt="Lynav Innovations" width="90" />
+
 # Lynav Innovations
 
-Empresa de software que **entende o problema real, entrega a solução certa e executa com a melhor performance de IA.**
+**Software que entende o problema real, entrega a solução certa e executa com a melhor performance de IA.**
 
-[![Fundada](https://img.shields.io/badge/Fundada-2026-1a1a2e?style=flat-square)](#)
-[![Origem](https://img.shields.io/badge/Rio%20de%20Janeiro-%20%F0%9F%87%A7%F0%9F%87%B7-2ea44f?style=flat-square)](#)
-[![Stack](https://img.shields.io/badge/Stack-C%23%20%7C%20.NET%20%7C%20SQL%20%7C%20React-512BD4?style=flat-square)](#)
+![Fundada em](https://img.shields.io/badge/Fundada-2026-1a1a2e?style=flat-square)
+![Rio de Janeiro](https://img.shields.io/badge/Rio%20de%20Janeiro-BR-009440?style=flat-square)
+![Stack](https://img.shields.io/badge/C%23%20·%20.NET%20·%20SQL%20·%20React-512BD4?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 Sobre a empresa
+## Sobre a empresa
 
 A **Lynav Innovations** nasceu em **2026, no Rio de Janeiro**, das mãos de seu fundador, **Lyan Navega** — um prodígio experiente que une talento técnico a uma obsessão real por resolver problemas de negócio.
 
-Mais do que escrever código, a Lynav existe para **entender o cliente de verdade** e entregar exatamente a solução que ele precisa, com a máxima eficiência possível. Toda a filosofia da empresa está condensada em três princípios que guiam cada projeto:
+Mais do que escrever código, a Lynav existe para entender o cliente de verdade e entregar exatamente a solução que ele precisa, com a máxima eficiência possível. Toda a filosofia da empresa está condensada em três princípios que guiam cada projeto:
 
-# Os 3 Princípios da Lynav
+> **1. Entender o problema real do cliente** — antes de qualquer linha de código, entender a dor de verdade.
+>
+> **2. Saber dar a solução correta** — não a mais complexa, nem a mais rápida de fazer: a certa.
+>
+> **3. Executar com a melhor performance de IA** — aplicar o que foi planejado com excelência, acelerando a entrega sem abrir mão da qualidade.
 
-1. **Entender o problema real do cliente** — antes de qualquer linha de código, entender a dor de verdade.
-2. **Planejar a solução adequada** — não a mais complexa, nem a mais rápida de fazer: a **certa**.
-3. **Extrair a melhor performance com IA para aplicar o planejado com eficiência** — executar com excelência, acelerando a entrega sem abrir mão da qualidade.
-
-É essa combinação — **cliente no centro, solução correta e execução de alta performance** — que torna o trabalho da Lynav o de um profissional excelente, verdadeiramente comprometido com o resultado de quem confia na empresa.
+É essa combinação — cliente no centro, solução correta e execução de alta performance — que define o trabalho da Lynav: o de uma empresa verdadeiramente comprometida com o resultado de quem confia nela.
 
 ---
 
-## ⭐ Katle — nossa plataforma principal  ·  [katle.pro](https://katle.pro)
+<img src="assets/katle-logo.svg" alt="Katle" width="72" />
 
-A **Katle** é o carro-chefe da Lynav Innovations: a **plataforma gamer oficial** da empresa, feita para quem leva os jogos a sério e quer ter **controle total** da própria jornada.
+## Katle — nossa plataforma principal
+
+[![Acessar katle.pro](https://img.shields.io/badge/katle.pro-8A3DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://katle.pro)
+
+A **Katle** é o carro-chefe da Lynav Innovations: a **plataforma gamer oficial** da empresa, feita para quem leva os jogos a sério e quer ter controle total da própria jornada.
 
 Na Katle, o jogador reúne num só lugar tudo o que importa da sua vida gamer:
 
-- 🎮 **Controle total dos jogos** — organize sua biblioteca e acompanhe o que está jogando, o que já zerou e o que ainda está na fila.
-- 🏆 **Conquistas** — registre e acompanhe suas conquistas, mantendo todo o seu progresso reunido e visível.
-- 🔥 **Criação de maratonas** — monte maratonas de jogos personalizadas, defina desafios e acompanhe a evolução do início ao fim.
-- 📊 **Visão da sua jornada** — estatísticas e histórico que mostram, de forma clara, o quanto você já avançou.
+- **Controle total dos jogos** — organize sua biblioteca e acompanhe o que está jogando, o que já zerou e o que ainda está na fila.
+- **Conquistas** — registre e acompanhe suas conquistas, mantendo todo o seu progresso reunido e visível.
+- **Criação de maratonas** — monte maratonas de jogos personalizadas, defina desafios e acompanhe a evolução do início ao fim.
+- **Visão da sua jornada** — estatísticas e histórico que mostram, de forma clara, o quanto você já avançou.
 
-A proposta da Katle é simples: transformar a experiência dispersa de jogar em algo **organizado, acompanhável e recompensador** — dando ao jogador o controle completo sobre sua trajetória.
+A proposta é simples: transformar a experiência dispersa de jogar em algo organizado, acompanhável e recompensador.
 
 ---
 
-## 🧩 Outros produtos da Lynav
+## Outros produtos
 
-A Lynav também desenvolve soluções voltadas ao mundo dos negócios:
+<img src="assets/stockie-logo.svg" alt="Stockie" width="64" />
 
-### 🏢 Stockie — ERP  ·  [stockie.com.br](https://stockie.com.br)
+### Stockie — ERP
+
+[![Acessar stockie.com.br](https://img.shields.io/badge/stockie.com.br-95FF00?style=flat-square&logo=googlechrome&logoColor=black)](https://stockie.com.br)
+
 Um **ERP** para gestão empresarial, que centraliza os principais processos do negócio em um único sistema. Seus módulos cobrem:
 
-- 📦 **Estoque** — controle de produtos, entradas e saídas.
-- 💰 **Financeiro** — acompanhamento de contas e movimentações.
-- 🚚 **Entregas** — gestão e acompanhamento das entregas.
-- 🛒 **Vendas** — registro e controle das vendas.
+- **Estoque** — controle de produtos, entradas e saídas.
+- **Financeiro** — acompanhamento de contas e movimentações.
+- **Entregas** — gestão e acompanhamento das entregas.
+- **Vendas** — registro e controle das vendas.
 
 Tudo integrado para trazer organização e controle à operação do dia a dia.
 
-### 🧾 QuoteApp — Aplicativo de orçamentos
+### QuoteApp — Aplicativo de orçamentos
+
 Aplicativo para **criação e gestão de orçamentos** de forma rápida e profissional. Construído em **.NET MAUI / Blazor** com banco **SQLite**, o QuoteApp permite:
 
 - Cadastro de clientes e itens do orçamento em um fluxo simples por etapas;
-- **Múltiplas formas de pagamento** por orçamento, com cálculo automático de parcelas e saldo restante em tempo real;
+- Múltiplas formas de pagamento por orçamento, com cálculo automático de parcelas e saldo restante em tempo real;
 - Listagem com filtros e paginação dos orçamentos já emitidos;
-- **Geração de PDF profissional** (via QuestPDF) pronto para enviar ao cliente;
+- Geração de PDF profissional (via QuestPDF) pronto para enviar ao cliente;
 - Código de orçamento único e imprevisível gerado com hash Base62.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-| Camada | Tecnologias |
-|---|---|
-| **Backend / Apps** | C#, .NET / .NET MAUI |
-| **Frontend** | React, Blazor (HTML/CSS) |
-| **Banco de dados** | SQL Server, SQLite, T-SQL |
-| **Relatórios** | QuestPDF |
-| **DevOps** | GitHub Actions (CI/CD), Inno Setup |
-
----
-
-## 🤝 Contato
-
-- 🌐 **Lynav Innovations:** [https://lynav.com.br](https://lynav.com.br)
-- 🎮 **Katle:** [https://katle.pro](https://katle.pro)
-- 🏢 **Stockie:** [https://stockie.com.br](https://stockie.com.br)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+
+## Contato
+
+[![Lynav](https://img.shields.io/badge/Lynav%20Innovations-lynav.com.br-FF0055?style=flat-square&logo=googlechrome&logoColor=white)](https://lynav.com.br)
+
+[![Katle](https://img.shields.io/badge/Katle-katle.pro-8A3DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://katle.pro)
+
+[![Stockie](https://img.shields.io/badge/Stockie-stockie.com.br-95FF00?style=flat-square&logo=googlechrome&logoColor=black)](https://stockie.com.br)
 
 <div align="center">
 
-*Feito com 💜 no Rio de Janeiro pela Lynav Innovations.*
+<sub>Feito no Rio de Janeiro pela Lynav Innovations.</sub>
 
 </div>
