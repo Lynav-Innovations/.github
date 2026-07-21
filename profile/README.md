@@ -2,7 +2,7 @@
 
 # Lynav Innovations
 
-**Entender o problema real. Entregar a solução certa. Executar com a melhor performance de IA.**
+Empresa de software que **entende o problema real, entrega a solução certa e executa com a melhor performance de IA.**
 
 [![Fundada](https://img.shields.io/badge/Fundada-2026-1a1a2e?style=flat-square)](#)
 [![Origem](https://img.shields.io/badge/Rio%20de%20Janeiro-%20%F0%9F%87%A7%F0%9F%87%B7-2ea44f?style=flat-square)](#)
@@ -18,11 +18,11 @@ A **Lynav Innovations** nasceu em **2026, no Rio de Janeiro**, das mãos de seu 
 
 Mais do que escrever código, a Lynav existe para **entender o cliente de verdade** e entregar exatamente a solução que ele precisa, com a máxima eficiência possível. Toda a filosofia da empresa está condensada em três princípios que guiam cada projeto:
 
-> ### Os 3 Princípios da Lynav
->
-> 1. **Entender o problema real do cliente** — antes de qualquer linha de código, entender a dor de verdade.
-> 2. **Saber dar a solução correta** — não a mais complexa, nem a mais rápida de fazer: a **certa**.
-> 3. **Usar a melhor performance com IA para aplicar o planejado** — executar com excelência, acelerando a entrega sem abrir mão da qualidade.
+# Os 3 Princípios da Lynav
+
+1. **Entender o problema real do cliente** — antes de qualquer linha de código, entender a dor de verdade.
+2. **Planejar a solução adequada** — não a mais complexa, nem a mais rápida de fazer: a **certa**.
+3. **Extrair a melhor performance com IA para aplicar o planejado com eficiência** — executar com excelência, acelerando a entrega sem abrir mão da qualidade.
 
 É essa combinação — **cliente no centro, solução correta e execução de alta performance** — que torna o trabalho da Lynav o de um profissional excelente, verdadeiramente comprometido com o resultado de quem confia na empresa.
 
